@@ -1,1 +1,13 @@
-hi
+Proof of concept in Excel before investing time in full python framework
+
+Ofcourse, a very successful industry is one point.
+
+- In the H:H,I:I,J:J columns of the spread sheet, H represents claims, I represents premium income and J represents total.
+It can be seen, by scrolling to row 828, that despite equal amounts of claim and income over the years there is still a large profit,
+which increases exponentially as time goes on based on a basic stategy of investing in the S&P500 over this time period.
+
+There is a validation column in M:M which validates the calculation.
+
+This was done using a basic present value calcuation, using the geometric mean in column F:F.
+
+Therefore, an Insurance stategy is viable but requires mitigating risks and other analysis.
